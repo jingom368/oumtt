@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.881e0ff1.css",
-    "main.js": "/static/js/main.d9e820c9.js",
+    "main.css": "/static/css/main.87fa16dc.css",
+    "main.js": "/static/js/main.44192c00.js",
     "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
     "static/media/이상빈.png": "/static/media/이상빈.00d495df88b95eac0f38.png",
     "static/media/진유키.jpg": "/static/media/진유키.4fc783366b699e867188.jpg",
@@ -21,12 +21,12 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "static/media/polygon.svg": "/static/media/polygon.00c8d3008b9ae7284c0ec89633797329.svg",
-    "main.881e0ff1.css.map": "/static/css/main.881e0ff1.css.map",
-    "main.d9e820c9.js.map": "/static/js/main.d9e820c9.js.map",
+    "main.87fa16dc.css.map": "/static/css/main.87fa16dc.css.map",
+    "main.44192c00.js.map": "/static/js/main.44192c00.js.map",
     "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.881e0ff1.css",
-    "static/js/main.d9e820c9.js"
+    "static/css/main.87fa16dc.css",
+    "static/js/main.44192c00.js"
   ]
 }
