@@ -49,6 +49,7 @@ def getRoutes(request):
 # /notes/<id> PUT
 # /notes/<id> DELETE
 
+# @api_view(['GET', 'POST'])
 @api_view(['GET', 'POST'])
 def getReservations(request):
 
@@ -58,20 +59,30 @@ def getReservations(request):
         return Response(serializer.data)
         # return getNoteList(request)
 
-#     if request.method == 'POST':
+    if request.method == 'POST':
+        data = request.data
+        reservation = Reservation.objects.create(
+            # body=data['body']
+            Exhibit=data['Exhibit'],
+            Day=data['Day'],
+            Time=data['Time'],
+        )
+        serializer = ReservationSerializer(reservation, many=False)
+        return Response(serializer.data)
 #         return createNote(request)
 
-@api_view(['GET', 'PUT', 'DELETE'])
+# @api_view(['GET', 'PUT', 'DELETE'])
+@api_view(['GET'])
 def getReservation(request, pk):
 
     if request.method == 'GET':
         reservations = Reservation.objects.get(id=pk)
         serializer = ReservationSerializer(reservations, many=False)
         return Response(serializer.data)
-        # return getNotedetail(request, pk)
+        return getNotedetail(request, pk)
 
-#     if request.method == 'PUT':
-#         return updateNote(request, pk)
+    # if request.method == 'PUT':
+    #     return updateNote(request, pk)
 
-#     if request.method == 'DELETE':
-#         return deleteNote(request, pk)
+    # if request.method == 'DELETE':
+    #     return deleteNote(request, pk)
