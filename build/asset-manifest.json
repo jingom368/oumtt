@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.879d0b09.css",
-    "main.js": "/static/js/main.c6c4d0d5.js",
+    "main.css": "/static/css/main.02f89bbb.css",
+    "main.js": "/static/js/main.79451ced.js",
     "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
     "static/media/Team_Background.png": "/static/media/Team_Background.718d517353f81cc58e60.png",
     "static/media/Eulyoo1945-Regular.ttf": "/static/media/Eulyoo1945-Regular.22154b183d5ef3de225d.ttf",
@@ -24,16 +24,17 @@
     "static/media/Personal_Colors.png": "/static/media/Personal_Colors.3948a0c88f1d22742896.png",
     "static/media/Reservation_Text.png": "/static/media/Reservation_Text.1775a5e55cb523e54398.png",
     "index.html": "/index.html",
-    "static/media/checkbox_none_blue.svg": "/static/media/checkbox_none_blue.96991b07ddb4d791053f6f9528a3ac12.svg",
+    "static/media/checkbox_active_blue.svg": "/static/media/checkbox_active_blue.215b85ae7f6a883b9bc551cfb9a6ab14.svg",
+    "static/media/checkbox_none_blue2.svg": "/static/media/checkbox_none_blue2.96991b07ddb4d791053f6f9528a3ac12.svg",
     "static/media/chevron-left.svg": "/static/media/chevron-left.b553318e4fdaed1113efb091889b7f47.svg",
     "static/media/polygon.svg": "/static/media/polygon.00c8d3008b9ae7284c0ec89633797329.svg",
     "static/media/right.svg": "/static/media/right.0355090b685f077744196cf06bb899fa.svg",
-    "main.879d0b09.css.map": "/static/css/main.879d0b09.css.map",
-    "main.c6c4d0d5.js.map": "/static/js/main.c6c4d0d5.js.map",
+    "main.02f89bbb.css.map": "/static/css/main.02f89bbb.css.map",
+    "main.79451ced.js.map": "/static/js/main.79451ced.js.map",
     "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.879d0b09.css",
-    "static/js/main.c6c4d0d5.js"
+    "static/css/main.02f89bbb.css",
+    "static/js/main.79451ced.js"
   ]
 }

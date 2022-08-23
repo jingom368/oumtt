@@ -63,9 +63,12 @@ def getReservations(request):
         data = request.data
         reservation = Reservation.objects.create(
             # body=data['body']
-            Exhibit=data['Exhibit'],
             Day=data['Day'],
             Time=data['Time'],
+            Name=data['Name'],
+            Phone=data['Phone'],
+            Dance=data['Dance'],
+            Personal=data['Personal'],
         )
         serializer = ReservationSerializer(reservation, many=False)
         return Response(serializer.data)
