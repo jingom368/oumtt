@@ -64,6 +64,7 @@ def getReservations(request):
         reservation = Reservation.objects.create(
             # body=data['body']
             Day=data['Day'],
+            Person=data['Person'],
             Time=data['Time'],
             Name=data['Name'],
             Phone=data['Phone'],
