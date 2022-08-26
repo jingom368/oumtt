@@ -19,3 +19,6 @@ class Reservation(models.Model):
 
     # def __str__(self):
     #     return self.Time[0:50]
+
+class Contact(models.Model):
+    contact = models.TextField(null=True)

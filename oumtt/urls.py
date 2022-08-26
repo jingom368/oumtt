@@ -23,5 +23,7 @@ urlpatterns = [
     path('api/', include('api.urls')),
     path('', TemplateView.as_view(template_name='index.html'), name='nature-main'),
     path('program/', TemplateView.as_view(template_name='index.html'), name='nature-program'),
-    path('project/exhibit/', TemplateView.as_view(template_name='index.html'), name='nature-program'),
+    path('project/exhibit/main/', TemplateView.as_view(template_name='index.html'), name='nature-program'),
+    path('reservation/', TemplateView.as_view(template_name='index.html'), name='nature-program'),
+    path('reservation/<str:pk>', TemplateView.as_view(template_name='index.html'), name='nature-program'),
 ]
