@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.509ba3e6.css",
-    "main.js": "/static/js/main.48d8f1d4.js",
+    "main.css": "/static/css/main.26072b70.css",
+    "main.js": "/static/js/main.5fb90392.js",
     "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
     "static/media/Team_Background.png": "/static/media/Team_Background.467b5a0b3acccd3dffe5.png",
     "static/media/Eulyoo1945-Regular.ttf": "/static/media/Eulyoo1945-Regular.22154b183d5ef3de225d.ttf",
@@ -9,10 +9,10 @@
     "static/media/Yuki.png": "/static/media/Yuki.500f90c15e87c1c7de1c.png",
     "static/media/Human_Exhibition2.png": "/static/media/Human_Exhibition2.4fd56016ee590750188e.png",
     "static/media/Reservation_Background.png": "/static/media/Reservation_Background.b1e20ea33837463a4e50.png",
+    "static/media/Contact.png": "/static/media/Contact.841e189db543aba26612.png",
     "static/media/Introduction.png": "/static/media/Introduction.0395247a5710e0fea215.png",
     "static/media/Personal_Background.png": "/static/media/Personal_Background.8eb6e2da0ebc7152e4d2.png",
     "static/media/Daeyoung_image_none.png": "/static/media/Daeyoung_image_none.1e1697a94f13e0325913.png",
-    "static/media/Contact.png": "/static/media/Contact.73c41da2ed2aba26a38f.png",
     "static/media/Main.png": "/static/media/Main.52037631e8eab1c6c42e.png",
     "static/media/Sohyun.png": "/static/media/Sohyun.db633d5f8b11be37b2e4.png",
     "static/media/Daeyoung_image_active.png": "/static/media/Daeyoung_image_active.ac74c8d4a76d5b77bd50.png",
@@ -44,7 +44,9 @@
     "static/media/생 전시.png": "/static/media/생 전시.09cd863aa26a81962297.png",
     "static/media/StandardA1.png": "/static/media/StandardA1.2b6873c23c495fc72102.png",
     "static/media/Personal_Colors.png": "/static/media/Personal_Colors.3948a0c88f1d22742896.png",
+    "static/media/oumtt_l.png": "/static/media/oumtt_l.4a9087481f3aab9b6757.png",
     "static/media/Reservation_Text.png": "/static/media/Reservation_Text.1775a5e55cb523e54398.png",
+    "static/media/oumtt_Yuki.png": "/static/media/oumtt_Yuki.a551df4eff8f9b8403f6.png",
     "static/media/oumtt.png": "/static/media/oumtt.8cb1b1c67ffa43bce872.png",
     "static/media/Floodwood.png": "/static/media/Floodwood.a720d660affa7952a2f8.png",
     "static/media/Instagram.svg": "/static/media/Instagram.4cdc3c56631fd166756de4bd9da44e27.svg",
@@ -60,12 +62,12 @@
     "static/media/right2x4_97A287.svg": "/static/media/right2x4_97A287.31dc749523bcd4b7ca3522f1c70968cd.svg",
     "static/media/right.svg": "/static/media/right.0355090b685f077744196cf06bb899fa.svg",
     "static/media/right2x4.svg": "/static/media/right2x4.c6ca18ae7d63ef35108f92592b6e6d46.svg",
-    "main.509ba3e6.css.map": "/static/css/main.509ba3e6.css.map",
-    "main.48d8f1d4.js.map": "/static/js/main.48d8f1d4.js.map",
+    "main.26072b70.css.map": "/static/css/main.26072b70.css.map",
+    "main.5fb90392.js.map": "/static/js/main.5fb90392.js.map",
     "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.509ba3e6.css",
-    "static/js/main.48d8f1d4.js"
+    "static/css/main.26072b70.css",
+    "static/js/main.5fb90392.js"
   ]
 }
