@@ -22,3 +22,11 @@ class Reservation(models.Model):
 
 class Contact(models.Model):
     contact = models.TextField(null=True)
+
+class Image(models.Model):
+    photo = models.ImageField(
+        blank=True, upload_to='oumtt/exhibit_program/'
+    )
+    message = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)

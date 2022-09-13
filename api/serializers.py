@@ -1,5 +1,5 @@
 from rest_framework.serializers import ModelSerializer
-from .models import Reservation
+from .models import Image, Reservation
 from .models import Contact
 
 class ReservationSerializer(ModelSerializer):
@@ -10,4 +10,9 @@ class ReservationSerializer(ModelSerializer):
 class ContactSerializer(ModelSerializer):
     class Meta:
         model = Contact
+        fields = '__all__'
+
+class ImageSerializer(ModelSerializer):
+    class Meta:
+        model = Image
         fields = '__all__'

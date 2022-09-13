@@ -10,4 +10,5 @@ urlpatterns = [
     # path('notes/<str:pk>/delete/', views.deleteNote, name='delete-note'),
 
     path('reservations/<str:pk>/', views.getReservation, name='reservation'),
+    path('images/', views.getImage, name='image'),
 ]

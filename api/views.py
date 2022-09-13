@@ -1,9 +1,10 @@
 # from django.shortcuts import render
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
-from .models import Reservation, Contact
-from .serializers import ReservationSerializer, ContactSerializer
+from .models import Reservation, Contact, Image
+from .serializers import ReservationSerializer, ContactSerializer, ImageSerializer
 from api import serializers
+from rest_framework import viewsets
 # from .utils import getNoteList, createNote, getNotedetail, updateNote, deleteNote
 
 @api_view(['GET']) 
@@ -44,7 +45,7 @@ def getRoutes(request):
             'Endpoint': '/contacts/',
             'method': 'GET',
             'body': None,
-            'description': 'Returns an array of notes'
+            'description': 'Returns an array of contacts'
         },
         {
             'Endpoint': '/contacts/create/',
@@ -52,6 +53,12 @@ def getRoutes(request):
             'body': {'body': ""},
             'description': 'Creates new reservation_contact with data sent in post request'
         },
+        {
+            'Endpoint': '/images/',
+            'method': 'GET',
+            'body': None,
+            'description': 'Returns an array of Images'
+        }
     ]
     return Response(routes)
 
@@ -119,4 +126,10 @@ def getContact(request):
         )
         serializer = ContactSerializer(contact, many=False)
         return Response(serializer.data)
-#         return createNote(request)
+#         return createNote(request)    
+
+@api_view(['GET'])
+def getImage(request):
+    photos = Image.objects.all()
+    serializer = ImageSerializer(photos, many=True)
+    return Response(serializer.data)
