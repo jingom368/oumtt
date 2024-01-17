@@ -17,43 +17,13 @@
 
 <h1>Program - mobile</h1>
 
-<img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd">
+<h1>Program - mobile</h1>
 
-<img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9">
-
-<img src="https://github.com/jingom368/oumtt/assets/67932739/345d11ee-6f6b-4a19-9173-84a98ce6d1a0">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/8d46427e-d5e7-44de-96a8-616f27a49b51">
-
-<img src="https://github.com/jingom368/oumtt/assets/67932739/185fd568-5cd3-4ee9-865d-769151a5d376">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/f0544fa5-303a-4c39-a0c6-ed215810bfcb">
-
-<img src="https://github.com/jingom368/oumtt/assets/67932739/d70db9eb-10ae-4764-b37c-9fbf7d0cf36a">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/2c6d529d-0977-4877-a3e2-fbcaf84f7cf7">
-
-<img src="https://github.com/jingom368/oumtt/assets/67932739/772cc791-0435-48f2-9bc2-0424b5cebd52">
-<img src="https://github.com/jingom368/oumtt/assets/67932739/eb7ff4c1-704a-47fd-8794-422b1d94d9cf">
-
-
-
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
-  <div style="display: flex; flex-direction:column; width:40%;">
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/345d11ee-6f6b-4a19-9173-84a98ce6d1a0"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/185fd568-5cd3-4ee9-865d-769151a5d376"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/d70db9eb-10ae-4764-b37c-9fbf7d0cf36a"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/772cc791-0435-48f2-9bc2-0424b5cebd52"></div>
-  </div>
-
-  <div style="display: flex; flex-direction:column; width:40%;">
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/8d46427e-d5e7-44de-96a8-616f27a49b51"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/f0544fa5-303a-4c39-a0c6-ed215810bfcb"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/2c6d529d-0977-4877-a3e2-fbcaf84f7cf7"></div>
-    <div><img src="https://github.com/jingom368/oumtt/assets/67932739/eb7ff4c1-704a-47fd-8794-422b1d94d9cf"></div>
-  </div>
-</div>
+| Column 1 | Column 2 |
+|:--------:|:--------:|
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd) |
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9) |
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/345d11ee-6f6b-4a19-9173-84a98ce6d1a0) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/8d46427e-d5e7-44de-96a8-616f27a49b51) |
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/185fd568-5cd3-4ee9-865d-769151a5d376) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/f0544fa5-303a-4c39-a0c6-ed215810bfcb) |
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/d70db9eb-10ae-4764-b37c-9fbf7d0cf36a) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/2c6d529d-0977-4877-a3e2-fbcaf84f7cf7) |
+| ![Image](https://github.com/jingom368/oumtt/assets/67932739/772cc791-0435-48f2-9bc2-0424b5cebd52) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/eb7ff4c1-704a-47fd-8794-422b1d94d9cf) |
