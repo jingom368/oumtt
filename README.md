@@ -30,12 +30,12 @@
 
 <div style="float: right; width: 45%;">
 
-![Image](https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd)
-![Image](https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9)
-![Image](https://github.com/jingom368/oumtt/assets/67932739/8d46427e-d5e7-44de-96a8-616f27a49b51)
-![Image](https://github.com/jingom368/oumtt/assets/67932739/f0544fa5-303a-4c39-a0c6-ed215810bfcb)
-![Image](https://github.com/jingom368/oumtt/assets/67932739/2c6d529d-0977-4877-a3e2-fbcaf84f7cf7)
-![Image](https://github.com/jingom368/oumtt/assets/67932739/eb7ff4c1-704a-47fd-8794-422b1d94d9cf)
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9"></div> 
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/8d46427e-d5e7-44de-96a8-616f27a49b51"></div> 
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/f0544fa5-303a-4c39-a0c6-ed215810bfcb"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/2c6d529d-0977-4877-a3e2-fbcaf84f7cf7"></div> 
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/eb7ff4c1-704a-47fd-8794-422b1d94d9cf"></div>
 
 </div>
 
