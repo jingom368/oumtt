@@ -22,7 +22,7 @@
 
 <img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f">
 
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9"></div>
+<img src="https://github.com/jingom368/oumtt/assets/67932739/6db12935-d19c-4ae1-b0d8-d6afb8cc46c9">
 
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/345d11ee-6f6b-4a19-9173-84a98ce6d1a0"></div>
 
