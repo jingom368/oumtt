@@ -17,8 +17,6 @@
 
 <h1>Program - mobile</h1>
 
-<h1>Program - mobile</h1>
-
 | Column 1 | Column 2 |
 |:--------:|:--------:|
 | ![Image](https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e) | ![Image](https://github.com/jingom368/oumtt/assets/67932739/999aa3bf-a32d-4ab4-88b9-ff2451243dbd) |
