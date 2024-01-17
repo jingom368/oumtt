@@ -16,7 +16,7 @@
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/99a9a767-86cb-49e9-b590-3ca9bb46c6be"></div>
 
 <h1>Program - </h1>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e" width="200%" height="200%"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f" width="200%" height="200%"></div>
 
 <h1>program</h1>
