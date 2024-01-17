@@ -7,5 +7,8 @@
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/e14b08d6-9986-49a7-94df-f48cb9b39f31"></div>
 <h3>예약</h3>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/eb0c3bdc-cb38-4daa-9e1d-8364b5ef0149"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/fa96d0c8-2c6c-4971-9bd2-0172dc379988"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b2df324-2578-4437-af5e-5231fa6fb0aa"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/649bc059-73a3-4279-b165-1f7a284d35bc"></div>
 
 <h1>program</h1>
