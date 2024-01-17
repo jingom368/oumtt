@@ -1,6 +1,6 @@
 <h1>텀블벅 - 크라우드펀딩</h1>
 <h2><a href="https://tumblbug.com/projectoumtt?ref=%EA%B2%80%EC%83%89%2F%ED%82%A4%EC%9B%8C%EB%93%9C">[인간전시 프로젝트 바로가기]</a></h2>
-<br />
+<br /><br/>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/e0cdbe49-1fb8-4e92-8da0-098c6229e00a"></div>
 <h1>Main - desktop</h1>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/b42a78b8-5026-40ab-a7a6-3de351373d56"></div>
@@ -17,7 +17,7 @@
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/ce2c3c9d-cad1-471c-85e8-121cc99265a1"></div>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/99a9a767-86cb-49e9-b590-3ca9bb46c6be"></div>
 
-<br/>
+<br/><br/>
 <h1>Program - mobile</h1>
 
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e" width:"50%" /></div>
