@@ -12,4 +12,4 @@
 <br/><br/>
 <h1>Program - mobile (360px ~ 1024px)</h1>
 
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/35771184-4f2f-4065-a6cb-ac454f43d98b"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/33baa443-aaf7-4f84-983a-5ce8357b9239"></div>
