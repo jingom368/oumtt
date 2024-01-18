@@ -7,7 +7,7 @@
 <br /><br/>
 <h1>Main - mobile (360px ~ 1024px)</h1>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b082c52-53fd-4743-9365-f69f2b9ecc04"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/84ec5c01-3c15-4fa6-a678-78f18d5a62e9"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/36a84595-79b5-4af9-9d66-b7bfc73aa1e3"></div>
 
 <br/><br/>
 <h1>Program - mobile (360px ~ 1024px)</h1>
