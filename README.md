@@ -1,4 +1,4 @@
-<h1>텀블벅 - 크라우드펀딩</h1>
+![localhost_3000_project_exhibit_main_(Samsung Galaxy S8+) (7) 1 (1)](https://github.com/jingom368/oumtt/assets/67932739/89c75119-df93-46c0-812d-d2503e1ebaa6)<h1>텀블벅 - 크라우드펀딩</h1>
 <div>전시 예매 및 소개 사이트 | 텀블벅 크라우드 펀딩 프로젝트 금액</div>
 <div>277만원(목표 금액의 277%) 달성 | 64명 관객 예약</div>
 <div><img src="https://github.com/jingom368/Nature_Project/assets/67932739/7015d633-7c6a-4571-aa71-4bef7b303e72"></div>
@@ -12,4 +12,4 @@
 <br/><br/>
 <h1>Program - mobile (360px ~ 1024px)</h1>
 
-<div><img src=" /></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/35771184-4f2f-4065-a6cb-ac454f43d98b"></div>
