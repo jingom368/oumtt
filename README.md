@@ -13,4 +13,4 @@
 <h1>Program - mobile (360px ~ 1024px)</h1>
 
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/735d4e2c-8fd6-4853-b3ed-c3b54c9a77ae"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/bda8fab4-c3a4-4ebe-bd27-3c80f98af23a" width="1440px"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/bda8fab4-c3a4-4ebe-bd27-3c80f98af23a" width="30px"></div>
