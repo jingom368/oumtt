@@ -12,5 +12,5 @@
 <br/><br/>
 <h1>Program - mobile (360px ~ 1024px)</h1>
 
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/33baa443-aaf7-4f84-983a-5ce8357b9239"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/735d4e2c-8fd6-4853-b3ed-c3b54c9a77ae"></div>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/cd9a5520-064f-49ea-8878-6d0739d89c02"></div>
