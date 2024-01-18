@@ -5,7 +5,7 @@
 <h2><a href="https://tumblbug.com/projectoumtt?ref=%EA%B2%80%EC%83%89%2F%ED%82%A4%EC%9B%8C%EB%93%9C">[인간전시 프로젝트 바로가기]</a></h2>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/86cb5ec2-f238-4702-ac98-40e33f607979"></div>
 <br /><br/>
-<h1>Main - mobile (360px ~ 1024px</h1>
+<h1>Main - mobile (360px ~ 1024px)</h1>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b082c52-53fd-4743-9365-f69f2b9ecc04"></div>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/84ec5c01-3c15-4fa6-a678-78f18d5a62e9"></div>
 
