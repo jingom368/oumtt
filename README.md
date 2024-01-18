@@ -6,9 +6,7 @@
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/86cb5ec2-f238-4702-ac98-40e33f607979"></div>
 <br /><br/>
 <h1>Main - mobile (360px ~ 1024px)</h1>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b082c52-53fd-4743-9365-f69f2b9ecc04"></div>
-
-
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/7a56ad3d-131e-4d44-b19c-ef52e8acb209"></div>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/a23f4e95-83d2-4557-8361-ae7e01408b90"></div>
 
 <br/><br/>
