@@ -5,24 +5,12 @@
 <h2><a href="https://tumblbug.com/projectoumtt?ref=%EA%B2%80%EC%83%89%2F%ED%82%A4%EC%9B%8C%EB%93%9C">[인간전시 프로젝트 바로가기]</a></h2>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/86cb5ec2-f238-4702-ac98-40e33f607979"></div>
 <br /><br/>
-<h1>Main - desktop</h1>
+<h1>Main - mobile (360px ~ 1024px</h1>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b082c52-53fd-4743-9365-f69f2b9ecc04"></div>
-
-
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/b42a78b8-5026-40ab-a7a6-3de351373d56"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/c819cfe0-ab64-4678-b83f-624f8b75a856"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/48296d86-24f3-435c-9a9e-e1e3152ead15"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/e14b08d6-9986-49a7-94df-f48cb9b39f31"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/fa96d0c8-2c6c-4971-9bd2-0172dc379988"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/1b2df324-2578-4437-af5e-5231fa6fb0aa"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/a89e366b-19eb-4925-a274-26c94c1da4c5"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/9462fd70-6b7a-4625-a9ef-3fd3a8f1fa07"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/b4df6d9b-06ec-4c0c-8e28-e7a6f93e0fd8"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/ce2c3c9d-cad1-471c-85e8-121cc99265a1"></div>
-<div><img src="https://github.com/jingom368/oumtt/assets/67932739/99a9a767-86cb-49e9-b590-3ca9bb46c6be"></div>
+<div><img src="https://github.com/jingom368/oumtt/assets/67932739/84ec5c01-3c15-4fa6-a678-78f18d5a62e9"></div>
 
 <br/><br/>
-<h1>Program - mobile</h1>
+<h1>Program - mobile (360px ~ 1024px)</h1>
 
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/bbbf3f41-a52b-4c75-b1a0-34280745cb8e" width:"50%" /></div>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/fad58478-c2e4-47ea-94b3-8f78704dca7f" /></div>
