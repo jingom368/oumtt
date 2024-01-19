@@ -14,8 +14,8 @@
 - 전시에서 관람객과 함께하는 프로그램에서 웹페이지를 활용
      
 <h2>텀블벅 - 크라우드펀딩</h2>
-<p>전시 예매 및 소개 사이트 | 텀블벅 크라우드 펀딩 프로젝트 금액</p>
-<p>277만원(목표 금액의 277%) 달성 | 64명 관객 예약</p>
+<p>텀블벅 크라우드펀딩을 통한 전시 예매 및 소개 웹사이트 프로젝트</p>
+<p>277만원(목표 금액 대비 277%) 모금 성공 | 전시 예매 : 총 64명의 관람객 예매 완료</p>
 <div><img src="https://github.com/jingom368/Nature_Project/assets/67932739/7015d633-7c6a-4571-aa71-4bef7b303e72"></div>
 <h2><a href="https://tumblbug.com/projectoumtt?ref=%EA%B2%80%EC%83%89%2F%ED%82%A4%EC%9B%8C%EB%93%9C">[인간전시 프로젝트 바로가기]</a></h2>
 <div><img src="https://github.com/jingom368/oumtt/assets/67932739/86cb5ec2-f238-4702-ac98-40e33f607979"></div>
